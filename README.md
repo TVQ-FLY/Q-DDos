@@ -55,5 +55,6 @@
 
 1. git clone https://github.com/KAR13MA09/NTTT-DDoS
 2. cd NTTT-DDoS
-3. Python setup.py	
-4. Python main.py
+3. pip install setuptools
+4. Python setup.py	
+5. Python main.py
